@@ -1,0 +1,35 @@
+img{
+    width:100%
+}
+body{
+    background-color: rgb(237,236,233);
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 16px;
+    color:rgb(119,85,72)
+}
+div{
+    font-size:24px;  
+}
+a{
+    color:rgb(239,109,36);
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 42px;
+}
+
+h2{
+    background-color: rgb(119,85,72);
+    color: rgb(225,212,207);
+}
+
+.h2-especial{
+    color:rgb(216,176,59)
+}
+.lanacion{
+    color:rgb(51,171,196)
+}
+.pagina12{
+    color:rgb(239,75,81)
+}
